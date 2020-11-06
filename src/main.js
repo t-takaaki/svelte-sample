@@ -6,7 +6,7 @@ const app = new App({
     name: 'world',
     hoge: 'foo',
     fuga: 'bar',
-	}
+  }
 });
 
 export default app;
